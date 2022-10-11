@@ -1,2 +1,2 @@
-# RiseUp-Medida-de-saude
- Medida de saude WEB
+# RiseUp Medida de saude
+Aplicação web do projeto Medida de Saude
